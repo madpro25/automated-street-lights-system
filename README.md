@@ -1,9 +1,9 @@
-# automated-street-lights-system
+# Automated Street Lights System
 Street light control based on amount of traffic using piezoelectric crystals with Arduino UNO.
 
 Ideal usage for roads with low traffic where keeping the street lights on at all times is not required.
 
-# components used
+# Components Used
 
 1. arduino UNO
 2. piezoelectric crystal
