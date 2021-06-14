@@ -5,10 +5,10 @@ Ideal usage for roads with low traffic where keeping the street lights on at all
 
 # Components Used
 
-1. arduino UNO
-2. piezoelectric crystal
-3. light dependent resistor (LDR)
-4. resistors
+1. Arduino UNO
+2. Piezoelectric Crystal
+3. Light Dependent Resistor (LDR)
+4. Resistors
 
 # Setup 
 
