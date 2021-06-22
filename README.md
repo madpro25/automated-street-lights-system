@@ -11,7 +11,7 @@ Ideal usage for roads with low traffic where keeping the street lights on at all
 4. Resistors
 
 # Setup 
-
+![image](https://user-images.githubusercontent.com/82163991/122891878-806fd300-d362-11eb-9f93-fe0a0352c67f.png)
 
 # Modifications for Practical Use
 
